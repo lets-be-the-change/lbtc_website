@@ -1,9 +1,9 @@
 @import 'https://fonts.googleapis.com/css?family=Open+Sans';
+
 html{
     height:100%;
     width:100%;
     text-align: center;
-    font-style: avenir;
 }
 
 body{
@@ -30,11 +30,11 @@ img{
         width:100px;
     }
 .home-blocks{
-    width:auto;
+    width:100%;
     height:100%;
     background-repeat: no-repeat;
     text-align:center;
-    background-size:contain;
+    background-size:cover;
 
 }
 .data-block{
